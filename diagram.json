@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Evelyn Suzarte",
+  "author": "Joel Santos ",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-pi-pico", "id": "pico", "top": 0, "left": 0, "attrs": {} },
